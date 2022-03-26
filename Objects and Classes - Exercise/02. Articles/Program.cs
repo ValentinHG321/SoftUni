@@ -42,26 +42,18 @@ namespace _02._Articles
 
             for (int i = 0; i < n; i++)
             {
-                string[] change = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).ToArray();
-                string newString = string.Empty;
-                for (int z = 1; z < change.Length; z++)
-                {
-                    newString += change[z];
-                    if (z != change.Length - 1)
-                    {
-                        newString += ' ';
-                    }
-                }
+                string[] change = Console.ReadLine().Split(": ", StringSplitOptions.RemoveEmptyEntries).ToArray();
+                string newString = change[1];
 
                 switch (change[0])
                 {
-                    case "Edit:":
+                    case "Edit":
                         inputClass.Edit(newString);
                             break;
-                    case "ChangeAuthor:":
+                    case "ChangeAuthor":
                         inputClass.ChangeAuthor(newString);
                         break;
-                    case "Rename:":
+                    case "Rename":
                         inputClass.Rename(newString);
                         break;
                 }

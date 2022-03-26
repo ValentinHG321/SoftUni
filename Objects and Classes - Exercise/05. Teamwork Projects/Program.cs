@@ -21,18 +21,14 @@ namespace P05.TeamworkProjects
                 string creatorName = teamArgs[0];
                 string teamName = teamArgs[1];
 
-                //First iteration always false
                 if (teams.Any(t => t.Name == teamName))
                 {
-                    //There is duplicate team
                     Console.WriteLine($"Team {teamName} was already created!");
                     continue;
                 }
 
-                //First iteration always false
                 if (teams.Any(t => t.Creator == creatorName))
                 {
-                    //The creator has another team
                     Console.WriteLine($"{creatorName} cannot create another team!");
                     continue;
                 }
@@ -61,13 +57,6 @@ namespace P05.TeamworkProjects
                     continue;
                 }
 
-                //LINQ equivalent
-                //if (teams.Any(t => t.Members.Contains(memberName)))
-                //{
-                //    Console.WriteLine($"Member {memberName} cannot join team {teamName}!");
-                //    continue;
-                //}
-
                 if (IsAlreadyMemberOfTeam(teams, memberName))
                 {
                     Console.WriteLine($"Member {memberName} cannot join team {teamName}!");
@@ -76,7 +65,6 @@ namespace P05.TeamworkProjects
 
                 if (teams.Any(t => t.Creator == memberName))
                 {
-                    //Creator of a team cannot be a member of another team
                     Console.WriteLine($"Member {memberName} cannot join team {teamName}!");
                     continue;
                 }
@@ -98,9 +86,6 @@ namespace P05.TeamworkProjects
             PrintInvalidTeams(teamsToDisband);
         }
 
-        /// <summary>
-        /// Checks whether the provided member name exists in members of the teams
-        /// </summary>
         static bool IsAlreadyMemberOfTeam(List<Team> teams, string memberName)
         {
             foreach (Team team in teams)
@@ -127,13 +112,8 @@ namespace P05.TeamworkProjects
                 }
             }
 
-            //foreach (Team team in validTeams)
-            //{
-            //    Console.WriteLine(team);
-            //}
         }
 
-        //This is the way for printing invalid objects
         static void PrintInvalidTeams(List<Team> invalidTeams)
         {
             Console.WriteLine("Teams to disband:");
@@ -143,18 +123,6 @@ namespace P05.TeamworkProjects
             }
         }
 
-        //static bool IsThereSameTeam(List<Team> teams, string teamName)
-        //{
-        //    foreach (Team team in teams)
-        //    {
-        //        if (team.Name == teamName)
-        //        {
-        //            return true;
-        //        }
-        //    }
-
-        //    return false;
-        //}
     }
 
     class Team
@@ -163,8 +131,6 @@ namespace P05.TeamworkProjects
         {
             this.Name = teamName;
             this.Creator = creatorName;
-
-            //Always remember to initialize collections in the ctor!!!
             this.Members = new List<string>();
         }
 
@@ -176,11 +142,10 @@ namespace P05.TeamworkProjects
 
         public void AddMember(string member)
         {
-            //There may be some validations!!!
+
             this.Members.Add(member);
         }
 
-        //Only for the valid teams!!!
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();

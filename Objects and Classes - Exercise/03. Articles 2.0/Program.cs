@@ -34,13 +34,13 @@ namespace _03._Articles_2._0
             {
                 string[] input = Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries).ToArray();
 
-                if (input[0] != "title" || input[0] == "content" || input[0] == "author")
-                {
-                    Article inputClass = new Article(input[0], input[1], input[2]);
+                Article inputClass = new Article(input[0], input[1], input[2]);
 
-                    listArticle.Add(inputClass);
-                }
+                listArticle.Add(inputClass);
+
             }
+
+            string empty = Console.ReadLine();
 
             foreach (Article article in listArticle)
             {
