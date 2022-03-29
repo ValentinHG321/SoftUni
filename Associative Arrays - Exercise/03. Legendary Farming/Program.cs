@@ -97,12 +97,5 @@ namespace P03.LegendaryFarming
                 Console.WriteLine($"{junkMaterial}: {junkQty}");
             }
         }
-
-        static void PassByValue(ref int a)
-        {
-            a = 5;
-
-            Console.WriteLine($"Method: a = {a}");
-        }
     }
 }
