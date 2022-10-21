@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.genruntimeconfig.cache

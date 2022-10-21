@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.genruntimeconfig.cache

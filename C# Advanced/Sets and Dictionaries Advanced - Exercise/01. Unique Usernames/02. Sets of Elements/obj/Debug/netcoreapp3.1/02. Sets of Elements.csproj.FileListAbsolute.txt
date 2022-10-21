@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.genruntimeconfig.cache

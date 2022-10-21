@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\bin\Debug\netcoreapp3.1\test test.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\bin\Debug\netcoreapp3.1\test test.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\bin\Debug\netcoreapp3.1\test test.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\bin\Debug\netcoreapp3.1\test test.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\bin\Debug\netcoreapp3.1\test test.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\bin\Debug\netcoreapp3.1\test test.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\obj\Debug\netcoreapp3.1\test test.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\obj\Debug\netcoreapp3.1\test test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\obj\Debug\netcoreapp3.1\test test.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\obj\Debug\netcoreapp3.1\test test.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\obj\Debug\netcoreapp3.1\test test.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\obj\Debug\netcoreapp3.1\test test.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\obj\Debug\netcoreapp3.1\test test.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\test test\test test\obj\Debug\netcoreapp3.1\test test.genruntimeconfig.cache

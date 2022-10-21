@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Exercise Stacks and Queues\Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.genruntimeconfig.cache

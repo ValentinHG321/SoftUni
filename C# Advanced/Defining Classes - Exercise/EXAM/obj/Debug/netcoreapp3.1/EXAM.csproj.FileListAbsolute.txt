@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\bin\Debug\netcoreapp3.1\EXAM.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\bin\Debug\netcoreapp3.1\EXAM.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\bin\Debug\netcoreapp3.1\EXAM.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\bin\Debug\netcoreapp3.1\EXAM.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\bin\Debug\netcoreapp3.1\EXAM.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\bin\Debug\netcoreapp3.1\EXAM.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\obj\Debug\netcoreapp3.1\EXAM.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\obj\Debug\netcoreapp3.1\EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\obj\Debug\netcoreapp3.1\EXAM.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\obj\Debug\netcoreapp3.1\EXAM.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\obj\Debug\netcoreapp3.1\EXAM.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\obj\Debug\netcoreapp3.1\EXAM.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\obj\Debug\netcoreapp3.1\EXAM.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\EXAM\obj\Debug\netcoreapp3.1\EXAM.genruntimeconfig.cache

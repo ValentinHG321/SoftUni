@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WAFFENBG\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WAFFENBG\\.nuget\\packages",
+      "D:\\MVS\\Shared\\NuGetPackages"
+    ]
+  }
+}

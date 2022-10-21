@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.genruntimeconfig.cache

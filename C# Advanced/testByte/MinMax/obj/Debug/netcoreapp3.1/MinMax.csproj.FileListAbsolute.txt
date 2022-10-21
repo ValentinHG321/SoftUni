@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\bin\Debug\netcoreapp3.1\MinMax.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\bin\Debug\netcoreapp3.1\MinMax.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\bin\Debug\netcoreapp3.1\MinMax.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\bin\Debug\netcoreapp3.1\MinMax.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\bin\Debug\netcoreapp3.1\MinMax.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\bin\Debug\netcoreapp3.1\MinMax.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\obj\Debug\netcoreapp3.1\MinMax.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\obj\Debug\netcoreapp3.1\MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\obj\Debug\netcoreapp3.1\MinMax.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\obj\Debug\netcoreapp3.1\MinMax.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\obj\Debug\netcoreapp3.1\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\obj\Debug\netcoreapp3.1\MinMax.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\obj\Debug\netcoreapp3.1\MinMax.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\testByte\MinMax\obj\Debug\netcoreapp3.1\MinMax.genruntimeconfig.cache

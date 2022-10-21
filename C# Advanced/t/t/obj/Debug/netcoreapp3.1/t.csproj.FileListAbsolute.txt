@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\bin\Debug\netcoreapp3.1\t.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\bin\Debug\netcoreapp3.1\t.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\bin\Debug\netcoreapp3.1\t.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\bin\Debug\netcoreapp3.1\t.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\bin\Debug\netcoreapp3.1\t.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\bin\Debug\netcoreapp3.1\t.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\obj\Debug\netcoreapp3.1\t.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\obj\Debug\netcoreapp3.1\t.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\obj\Debug\netcoreapp3.1\t.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\obj\Debug\netcoreapp3.1\t.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\obj\Debug\netcoreapp3.1\t.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\obj\Debug\netcoreapp3.1\t.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\obj\Debug\netcoreapp3.1\t.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\t\t\obj\Debug\netcoreapp3.1\t.genruntimeconfig.cache

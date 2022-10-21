@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.genruntimeconfig.cache

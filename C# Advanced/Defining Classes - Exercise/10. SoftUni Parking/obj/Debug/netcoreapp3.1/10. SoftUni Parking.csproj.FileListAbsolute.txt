@@ -1,0 +1,14 @@
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.1\10. SoftUni Parking.csproj.AssemblyReference.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.1\10. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.1\10. SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.1\10. SoftUni Parking.AssemblyInfo.cs
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.1\10. SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.1\10. SoftUni Parking.exe
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.1\10. SoftUni Parking.deps.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.1\10. SoftUni Parking.runtimeconfig.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.1\10. SoftUni Parking.runtimeconfig.dev.json
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.1\10. SoftUni Parking.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.1\10. SoftUni Parking.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.1\10. SoftUni Parking.dll
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.1\10. SoftUni Parking.pdb
+C:\Users\WAFFENBG\source\repos\SoftUni\C# Advanced\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.1\10. SoftUni Parking.genruntimeconfig.cache
