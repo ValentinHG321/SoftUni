@@ -1,2 +1,0 @@
-# SoftUni
-All past exercises
